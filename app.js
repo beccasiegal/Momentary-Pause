@@ -8,52 +8,9 @@
 <!-- Title -->
 <title>The Momentary Pause: Photos by Ann Cameron Siegal</title>
 
-<!-- Stylesheet -->	
-<link rel="stylesheet" href="https://themomentarypause.com/wp-content/themes/hatch/style.css" type="text/css" />
 
-<link rel="profile" href="http://gmpg.org/xfn/11" />
-<link rel="pingback" href="https://themomentarypause.com/xmlrpc.php" />
 
-<!-- WP Head -->
-<meta name="generator" content="WordPress 4.4.21" />
-<meta name="template" content="Hatch 0.3.0" />
-<link rel="alternate" type="application/rss+xml" title="The Momentary Pause &raquo; Feed" href="https://www.themomentarypause.com/feed/" />
-<link rel="alternate" type="application/rss+xml" title="The Momentary Pause &raquo; Comments Feed" href="https://www.themomentarypause.com/comments/feed/" />
-		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/themomentarypause.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.21"}};
-			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;return g&&g.fillText?(g.textBaseline="top",g.font="600 32px Arial","flag"===a?(g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3):"diversity"===a?(g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e):("simple"===a?g.fillText(h(55357,56835),0,0):g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script>
-	
-<link rel='stylesheet' id='style-css'  href='https://themomentarypause.com/wp-content/themes/hatch/style.css?ver=0.3.0' type='text/css' media='all' />
-<link rel='stylesheet' id='responsive-lightbox-swipebox-css'  href='https://themomentarypause.com/wp-content/plugins/responsive-lightbox/assets/swipebox/css/swipebox.min.css?ver=1.6.7' type='text/css' media='all' />
-<link rel='stylesheet' id='hatch_fancybox-stylesheet-css'  href='https://themomentarypause.com/wp-content/themes/hatch/js/fancybox/jquery.fancybox-1.3.4.css?ver=1' type='text/css' media='screen' />
-<script type='text/javascript' src='https://themomentarypause.com/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
-<script type='text/javascript' src='https://themomentarypause.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
-<script type='text/javascript' src='https://themomentarypause.com/wp-content/plugins/responsive-lightbox/assets/swipebox/js/jquery.swipebox.min.js?ver=1.6.7'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var rlArgs = {"script":"swipebox","selector":"lightbox","customEvents":"","activeGalleries":"1","animation":"1","hideCloseButtonOnMobile":"0","removeBarsOnMobile":"0","hideBars":"1","hideBarsDelay":"5000","videoMaxWidth":"1080","useSVG":"1","loopAtEnd":"0"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://themomentarypause.com/wp-content/plugins/responsive-lightbox/js/front.js?ver=1.6.7'></script>
-<link rel='https://api.w.org/' href='https://www.themomentarypause.com/wp-json/' />
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://themomentarypause.com/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://themomentarypause.com/wp-includes/wlwmanifest.xml" /> 
-
-<!-- Style settings -->
-<style type="text/css" media="all">
-html { font-size: 17px; }
-body { font-family: Lucida Sans Unicode, serif; }
-a, a:visited, #footer a:hover, .entry-title a:hover { color: #0b477b; }
-a:hover, a:focus { color: #000; }
-</style>
-<style type="text/css" id="custom-background-css">
-body.custom-background { background-color: #ddbf8d; }
-</style>
-
-</head>
-
-<body class="wordpress ltr en_US parent-theme y2020 m03 d14 h17 saturday logged-out custom-background custom-header home blog">
+<body>
 
 	
 	<div id="container">
@@ -66,42 +23,17 @@ body.custom-background { background-color: #ddbf8d; }
 					
 					<div id="branding">
 						
-						<h1 id="site-title"><a href="https://www.themomentarypause.com" title="The Momentary Pause" rel="home"><span>The Momentary Pause</span></a></h1>						
+						<h1 id="site-title"><title="The Momentary Pause" rel="home"><span>The Momentary Pause</span></h1>						
 						<h2 id="site-description"><span>Photos by Ann Cameron Siegal</span></h2>						
 					</div><!-- #branding -->
 					
 					
 	
 	<div id="menu-primary" class="menu-container">
-
 		
-		<div class="menu"><ul id="menu-primary-items" class=""><li id="menu-item-113" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-113"><a href="http://themomentarypause.com">HOME</a></li>
-<li id="menu-item-112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112"><a href="https://www.themomentarypause.com/about/">ABOUT</a></li>
-<li id="menu-item-109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-109"><a href="https://www.themomentarypause.com/galleries/">GALLERY</a>
-<ul class="sub-menu">
-	<li id="menu-item-761" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-761"><a href="https://www.themomentarypause.com/galleries/south-rim-grand-canyon/">SOUTH RIM, GRAND CANYON</a></li>
-	<li id="menu-item-516" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-516"><a href="https://www.themomentarypause.com/galleries/autumns-majesty/">AUTUMN&#8217;S MAJESTY</a></li>
-	<li id="menu-item-170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-170"><a href="https://www.themomentarypause.com/galleries/scenes-from-country-roads/">THE WINDING ROAD</a></li>
-	<li id="menu-item-285" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-285"><a href="https://www.themomentarypause.com/galleries/beavers-2/">BEAVERS OF HUNTLEY MEADOWS</a></li>
-	<li id="menu-item-689" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-689"><a href="https://www.themomentarypause.com/galleries/beavers-of-new-york-2/">BEAVERS OF NEW YORK</a></li>
-	<li id="menu-item-762" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-762"><a href="https://www.themomentarypause.com/galleries/galapagos-islands-3/">GALAPAGOS ISLANDS</a></li>
-	<li id="menu-item-220" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-220"><a href="https://www.themomentarypause.com/galleries/alaska/">ALASKA</a></li>
-	<li id="menu-item-251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-251"><a href="https://www.themomentarypause.com/galleries/sunrise-sunset/">SUNRISE, SUNSET</a></li>
-	<li id="menu-item-325" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-325"><a href="https://www.themomentarypause.com/galleries/pelicans/">PELICANS</a></li>
-	<li id="menu-item-414" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-414"><a href="https://www.themomentarypause.com/galleries/osprey-and-eagles/">OSPREY AND EAGLES</a></li>
-	<li id="menu-item-454" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-454"><a href="https://www.themomentarypause.com/galleries/bob-and-friends/">BOB THE PUPPET AND FRIENDS</a></li>
-</ul>
-</li>
-<li id="menu-item-115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115"><a href="https://www.themomentarypause.com/contact/">CONTACT</a></li>
-</ul></div>
-		
-	</div><!-- #menu-primary .menu-container -->
-
+	</div><!-- #menu-primary .menu-container -->	
 	
-				
-	
-						
-					
+									
 			</div><!-- #header -->
 	
 				
@@ -295,47 +227,12 @@ body.custom-background { background-color: #ddbf8d; }
 				
 		</div><!-- #main -->
 
-		
-				
-
-		
-		<div id="footer">
-
-			
-			<div class="footer-content">
-				
-				<p class="<strong>copyright</strong>"><strong>Copyright</strong> © <strong>[2013] <a class="site-link" href="https://www.themomentarypause.com" title="The Momentary Pause" rel="home"><span>The Momentary Pause</span></a></p></strong>
-
-
-				
-			</div>
-
-			
-		</div><!-- #footer -->
-
 				
 		</div><!-- .wrap -->
 
 	</div><!-- #container -->
 
 		
-	<script type="text/javascript">
-            if (window.wp_product_version === undefined) {
-                window.wp_product_version = "wpf-1.3.1";
-            }
-
-            if (window.wp_blog_version === undefined) {
-                window.wp_blog_version = "4.4.21";
-            }
-
-            if (window.addthis_plugin_info === undefined) {
-                window.addthis_plugin_info = {"info_status":"enabled","cms_name":"WordPress","cms_version":"4.4.21","plugin_name":"AddThis Follow Buttons","plugin_version":"1.3.1"};
-            }
-        </script><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=c23aa4438fd8a2ea8df1d205600d5050"></script><script type='text/javascript' src='https://themomentarypause.com/wp-content/themes/hatch/js/fancybox/jquery.fancybox-1.3.4.pack.js?ver=1.0'></script>
-<script type='text/javascript' src='https://themomentarypause.com/wp-content/themes/hatch/js/jquery.fitvids.js?ver=1.0'></script>
-<script type='text/javascript' src='https://themomentarypause.com/wp-content/themes/hatch/js/footer-scripts.js?ver=1.0'></script>
-<script type='text/javascript' src='https://themomentarypause.com/wp-content/themes/hatch/library/js/drop-downs.min.js?ver=20130805'></script>
-<script type='text/javascript' src='https://themomentarypause.com/wp-includes/js/wp-embed.min.js?ver=4.4.21'></script>
 
 </body>
 </html>
